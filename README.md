@@ -8,3 +8,5 @@
 Год выпуска: 2023
 
 Тема: Применение нейросетевых алгоритмов в задаче трекинга объектов при наблюдении с беспилотных летательных аппаратов
+
+Ссылка на обработанный датасет VisDrone для YOLOv5: https://drive.google.com/drive/folders/1Bj347bpOW2VH4zWHjOZ7MkgyvgRBL3fX?usp=share_link
