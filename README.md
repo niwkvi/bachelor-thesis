@@ -8,7 +8,7 @@
 
 **Год:** 2023
 
-**Тема:** Применение нейросетевых алгоритмов в задаче трекинга объектов при наблюдении с беспилотных летательных аппаратов (Application of Neural Network Algorithms in the Task of Object Tracking on Video from Unmanned Aerial Vehicles)
+**Тема:** Применение нейросетевых алгоритмов в задаче трекинга объектов на видео при наблюдении с беспилотных летательных аппаратов (Application of Neural Network Algorithms in the Task of Object Tracking on Video from Unmanned Aerial Vehicles)
 
 ---
 
