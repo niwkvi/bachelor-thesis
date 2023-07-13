@@ -25,5 +25,3 @@
 This paper considers the task of multiple object tracking on video from unmanned aerial vehicles. A solution to the class imbalance problem for the VisDrone dataset is presented. The YOLOv5-StrongSORT-GSI model is implemented. A comparison between the obtained model and the newest YOLOv8 integrated tracking algorithms is performed, which results in higher tracking accuracy of the first one.
 
 **Keywords:** multiple object tracking, YOLO, VisDrone, class imbalance problem, UAVDT, StrongSORT
-
----
